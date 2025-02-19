@@ -50,9 +50,14 @@ export default function Home() {
                                 </div>
                                 <div className="content">
                                 <h3>Address</h3>
-                                <p>
+                                <p> Ibn Al-Jawazi St. Makkah</p>
+                                <p> Al Mukarama Road,</p>
+                                <p> Industrial City 35514,</p>
+                                <p>Kingdom of Saudi Arabia</p>
+
+                                {/* <p>
                                 Ibn Al-Jawazi St. Makkah Al Mukarama Road,<br/>Al-Jubail Industrial City 35514,<br/> Kingdom of Saudi Arabia
-                                </p>
+                                </p> */}
                                 </div>
                             </li>
                             <li>
