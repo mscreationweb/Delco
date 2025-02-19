@@ -1850,8 +1850,8 @@ a.scroll-to-target.scroll-to-top {
   position: relative;
   display: block;
   background-color: var(--onpoint-black);
-  margin: 0 45px;
-  border-radius: 50px;
+  /* margin: 0 1px; */
+  border-radius: 20px;
   z-index: 91;
   overflow: hidden;
 }
@@ -1867,8 +1867,8 @@ a.scroll-to-target.scroll-to-top {
   left: 0;
   right: 0;
   bottom: 0;
-  background-repeat: no-repeat;
-  background-position: center;
+  /* background-repeat: no-repeat; */
+  /* background-position: center; */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -1888,7 +1888,7 @@ a.scroll-to-target.scroll-to-top {
   left: 0;
   right: 0;
   bottom: 0;
-  background: linear-gradient(90deg, #0F1B24 12.37%, rgba(57, 103, 138, 0) 100%);
+  /* background: linear-gradient(90deg, #0F1B24 12.37%, rgba(57, 103, 138, 0) 100%); */
 }
 
 .main-slider .swiper-slide-active .main-slider__bg {
