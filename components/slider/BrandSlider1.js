@@ -200,6 +200,15 @@ export default function BrandSlider1() {
                     <SwiperSlide className="swiper-slide">
                         <img src="./assets/images/allimgs/clients/49.jpg" alt="" />
                     </SwiperSlide>
+                    <SwiperSlide className="swiper-slide">
+                        <img src="./assets/images/allimgs/clients/51.jpg" alt="" />
+                    </SwiperSlide>
+                    <SwiperSlide className="swiper-slide">
+                        <img src="./assets/images/allimgs/clients/52.jpg" alt="" />
+                    </SwiperSlide>
+                    <SwiperSlide className="swiper-slide">
+                        <img src="./assets/images/allimgs/clients/53.jpg" alt="" />
+                    </SwiperSlide>
                   
                   
                 </div>

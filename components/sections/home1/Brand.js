@@ -21,7 +21,7 @@ export default function Brand() {
                     <div className="col-xl-4">
                     <div className="project-details__img-box-img">
                         <img
-                        src="./assets/images/allimgs/project/KAFD .webp"
+                        src="./assets/images/allimgs/project/KAFDnew.webp"
                         alt=""
                         />
                         <h3 style={{textAlign:'center',margin:'10px'}}>KAFD Project</h3>
@@ -30,7 +30,7 @@ export default function Brand() {
                     <div className="col-xl-4">
                     <div className="project-details__img-box-img">
                         <img
-                        src="./assets/images/allimgs/project/King .webp"
+                        src="./assets/images/allimgs/project/Kingnew.webp"
                         alt=""
                         />
                         <h3 style={{textAlign:'center',margin:'10px'}}>King Salman Park Project
@@ -40,7 +40,7 @@ export default function Brand() {
                     <div className="col-xl-4">
                     <div className="project-details__img-box-img">
                         <img
-                        src="./assets/images/allimgs/project/Qiddiya .webp"
+                        src="./assets/images/allimgs/project/Qiddiyanew.webp"
                         alt=""
                         />
                         <h3 style={{textAlign:'center',margin:'10px'}}> Qiddiya Project

@@ -72,7 +72,7 @@ export default function Blog() {
                     <div className="blog-two__single">
                         <div className="blog-two__img-box">
                         <div className="blog-two__img">
-                            <img src="./assets/images/allimgs/service/2.webp" alt="" />
+                            <img src="./assets/images/allimgs/service/Specializednew.webp" alt="" />
                         </div>
                         <div className="blog-two__date">
                             <p>
@@ -123,7 +123,7 @@ export default function Blog() {
                     <div className="blog-two__single">
                         <div className="blog-two__img-box">
                         <div className="blog-two__img">
-                            <img src="./assets/images/allimgs/service/3.webp" alt="" />
+                            <img src="./assets/images/allimgs/service/Equipmentnew.webp" alt="" />
                         </div>
                         <div className="blog-two__date">
                             <p>
