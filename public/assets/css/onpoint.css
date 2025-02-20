@@ -1849,11 +1849,12 @@ a.scroll-to-target.scroll-to-top {
 .main-slider {
   position: relative;
   display: block;
-  background-color: var(--onpoint-black);
+  /* background-color: var(--onpoint-black); */
   /* margin: 0 1px; */
-  border-radius: 20px;
+  /* border-radius: 10px; */
   z-index: 91;
   overflow: hidden;
+  
 }
 
 .main-slider .swiper-slide {
@@ -1880,6 +1881,18 @@ a.scroll-to-target.scroll-to-top {
   transition: transform 7000ms ease, opacity 1500ms ease-in, -webkit-transform 7000ms ease;
   z-index: -1;
 }
+
+
+@media screen and (max-width: 768px) {
+  .main-slider__bg {
+    width: 100% !important; /* Full width */
+    height: 100% !important; /* Full height */
+    /* background-size: 550px !important;  */
+    background-repeat: no-repeat;
+    background-position: center center; /* Centers the image */
+  }
+}
+
 
 .main-slider__bg:before {
   content: "";
