@@ -34,7 +34,7 @@ export default function Banner() {
               <SwiperSlide className="swiper-slide">
                 <div
                   className="main-slider__bg"
-                  style={{ backgroundImage: "url(./assets/images/allimgs/banner/banner1.webp)" }}
+                  style={{ backgroundImage: "url(./assets/images/allimgs/banner/banner12.webp)" }}
                 />
                 {/* <div className="main-slider__shape-1" />
                 <div className="main-slider__shape-2" />
