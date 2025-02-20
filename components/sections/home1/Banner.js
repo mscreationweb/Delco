@@ -87,7 +87,185 @@ export default function Banner() {
 
 {/* 2 */}
 
+
+{/* 3 */}
+<SwiperSlide className="swiper-slide">
+                <div
+                  className="main-slider__bg"
+                  style={{ backgroundImage: "url(./assets/images/allimgs/banner/3.webp)" }}
+                />
+              
+                <div className="container">
+                  <div className="row">
+                    <div className="col-xl-12">
+                      <div className="main-slider__content">
+                        <div className="main-slider__sub-title-box">
+                          <div className="main-slider__sub-title-icon">
+                           
+                          </div>
+                        </div>
+                      
+                        <div className="main-slider__btn-and-call-box">
+                          
+                         
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </SwiperSlide>
+
+{/* 3 */}
              
+{/* 4 */}
+<SwiperSlide className="swiper-slide">
+                <div
+                  className="main-slider__bg"
+                  style={{ backgroundImage: "url(./assets/images/allimgs/banner/4.webp)" }}
+                />
+              
+                <div className="container">
+                  <div className="row">
+                    <div className="col-xl-12">
+                      <div className="main-slider__content">
+                        <div className="main-slider__sub-title-box">
+                          <div className="main-slider__sub-title-icon">
+                           
+                          </div>
+                        </div>
+                      
+                        <div className="main-slider__btn-and-call-box">
+                          
+                         
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </SwiperSlide>
+{/* 4 */}
+
+
+{/* 5 */}
+<SwiperSlide className="swiper-slide">
+                <div
+                  className="main-slider__bg"
+                  style={{ backgroundImage: "url(./assets/images/allimgs/banner/5.webp)" }}
+                />
+              
+                <div className="container">
+                  <div className="row">
+                    <div className="col-xl-12">
+                      <div className="main-slider__content">
+                        <div className="main-slider__sub-title-box">
+                          <div className="main-slider__sub-title-icon">
+                           
+                          </div>
+                        </div>
+                      
+                        <div className="main-slider__btn-and-call-box">
+                          
+                         
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </SwiperSlide>
+{/* 5 */}
+
+
+{/* 6 */}
+<SwiperSlide className="swiper-slide">
+                <div
+                  className="main-slider__bg"
+                  style={{ backgroundImage: "url(./assets/images/allimgs/banner/6.webp)" }}
+                />
+              
+                <div className="container">
+                  <div className="row">
+                    <div className="col-xl-12">
+                      <div className="main-slider__content">
+                        <div className="main-slider__sub-title-box">
+                          <div className="main-slider__sub-title-icon">
+                           
+                          </div>
+                        </div>
+                      
+                        <div className="main-slider__btn-and-call-box">
+                          
+                         
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </SwiperSlide>
+{/* 6 */}
+
+
+{/* 7 */}
+<SwiperSlide className="swiper-slide">
+                <div
+                  className="main-slider__bg"
+                  style={{ backgroundImage: "url(./assets/images/allimgs/banner/7.webp)" }}
+                />
+              
+                <div className="container">
+                  <div className="row">
+                    <div className="col-xl-12">
+                      <div className="main-slider__content">
+                        <div className="main-slider__sub-title-box">
+                          <div className="main-slider__sub-title-icon">
+                           
+                          </div>
+                        </div>
+                      
+                        <div className="main-slider__btn-and-call-box">
+                          
+                         
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </SwiperSlide>
+{/* 7 */}
+
+
+{/* 8 */}
+<SwiperSlide className="swiper-slide">
+                <div
+                  className="main-slider__bg"
+                  style={{ backgroundImage: "url(./assets/images/allimgs/banner/8.webp)" }}
+                />
+              
+                <div className="container">
+                  <div className="row">
+                    <div className="col-xl-12">
+                      <div className="main-slider__content">
+                        <div className="main-slider__sub-title-box">
+                          <div className="main-slider__sub-title-icon">
+                           
+                          </div>
+                        </div>
+                      
+                        <div className="main-slider__btn-and-call-box">
+                          
+                         
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </SwiperSlide>
+{/* 8 */}
+
+
+
+
+
+
 {/* second */}
               {/* <SwiperSlide className="swiper-slide">
                 <div
