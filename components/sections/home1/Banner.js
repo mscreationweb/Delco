@@ -19,7 +19,7 @@ const swiperOptions = {
     prevEl: "#main-slider__swiper-button-prev"
     },
     autoplay: {
-        delay: 8000
+        delay: 5000
     }
 }
 
@@ -34,12 +34,9 @@ export default function Banner() {
               <SwiperSlide className="swiper-slide">
                 <div
                   className="main-slider__bg"
-                  style={{ backgroundImage: "url(./assets/images/allimgs/banner/banner12.webp)" }}
+                  style={{ backgroundImage: "url(./assets/images/allimgs/banner/1.webp)" }}
                 />
-                {/* <div className="main-slider__shape-1" />
-                <div className="main-slider__shape-2" />
-                <div className="main-slider__shape-3" />
-                <div className="main-slider__shape-4" /> */}
+              
                 <div className="container">
                   <div className="row">
                     <div className="col-xl-12">
@@ -48,23 +45,10 @@ export default function Banner() {
                           <div className="main-slider__sub-title-icon">
                            
                           </div>
-                          {/* <p className="main-slider__sub-title">DELCO</p> */}
                         </div>
-                        {/* <h2 className="main-slider__title">
-                        Achieving highest <br /> standards <span> of quality </span> <br /> reliability, trust<br />an <span>satisfaction</span>
-                        </h2> */}
-                        {/* <p className="main-slider__text">
-                          We have been operating for over a decade, providing top-notch
-                          services to <br /> our clients and building a strong track record in
-                          the industry.
-                        </p> */}
+                      
                         <div className="main-slider__btn-and-call-box">
-                          {/* <div className="main-slider__btn-box">
-                            <Link href="/services" className="thm-btn main-slider__btn">
-                             Our Services
-                              <span />
-                            </Link>
-                          </div> */}
+                          
                          
                         </div>
                       </div>
@@ -74,15 +58,13 @@ export default function Banner() {
               </SwiperSlide>
 
 
-               <SwiperSlide className="swiper-slide">
+{/* 2 */}
+<SwiperSlide className="swiper-slide">
                 <div
                   className="main-slider__bg"
-                  style={{ backgroundImage: "url(./assets/images/allimgs/banner/banner1.webp)" }}
+                  style={{ backgroundImage: "url(./assets/images/allimgs/banner/2.webp)" }}
                 />
-                {/* <div className="main-slider__shape-1" />
-                <div className="main-slider__shape-2" />
-                <div className="main-slider__shape-3" />
-                <div className="main-slider__shape-4" /> */}
+              
                 <div className="container">
                   <div className="row">
                     <div className="col-xl-12">
@@ -91,23 +73,10 @@ export default function Banner() {
                           <div className="main-slider__sub-title-icon">
                            
                           </div>
-                          {/* <p className="main-slider__sub-title">DELCO</p> */}
                         </div>
-                        {/* <h2 className="main-slider__title">
-                        Achieving highest <br /> standards <span> of quality </span> <br /> reliability, trust<br />an <span>satisfaction</span>
-                        </h2> */}
-                        {/* <p className="main-slider__text">
-                          We have been operating for over a decade, providing top-notch
-                          services to <br /> our clients and building a strong track record in
-                          the industry.
-                        </p> */}
+                      
                         <div className="main-slider__btn-and-call-box">
-                          {/* <div className="main-slider__btn-box">
-                            <Link href="/services" className="thm-btn main-slider__btn">
-                             Our Services
-                              <span />
-                            </Link>
-                          </div> */}
+                          
                          
                         </div>
                       </div>
@@ -115,11 +84,15 @@ export default function Banner() {
                   </div>
                 </div>
               </SwiperSlide>
+
+{/* 2 */}
+
+             
 {/* second */}
               {/* <SwiperSlide className="swiper-slide">
                 <div
                   className="main-slider__bg"
-                  style={{ backgroundImage: "url(./assets/images/allimgs/banner/Banner2.webp)" }}
+                  style={{ backgroundImage: "url(./assets/images/allimgs/banner/2.webp)" }}
                 />
                 <div className="main-slider__shape-1" />
                 <div className="main-slider__shape-2" />
