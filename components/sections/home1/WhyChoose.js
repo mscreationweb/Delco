@@ -39,7 +39,7 @@ export default function WhyChoose() {
                         data-wow-duration="2500ms"
                         >
                         <img
-                            src="./assets/images/allimgs/service/about.webp"
+                            src="./assets/images/allimgs/service/About.webp"
                             alt=""
                         />
                         {/* <div className="why-choose-one__delivery-box">
