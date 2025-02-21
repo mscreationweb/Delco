@@ -18,76 +18,22 @@ export default function Blog() {
                 </div>
                 <div className="row">
                     {/*Blog Two Single Start*/}
-                    {/* 1 */}
                     <div
-                    className="col-xl-6 col-lg-4 wow fadeInRight"
-                    data-wow-delay="300ms"
-                    >
-                    <div className="blog-two__single">
-                        <div className="blog-two__img-box">
-                        <div className="blog-two__img">
-                            <img src="./assets/images/allimgs/service/6.webp" alt="" />
-                        </div>
-                        {/* <div className="blog-two__date">
-                            <p>
-                            06
-                            <br />
-                            </p>
-                        </div> */}
-                        </div>
-                        <div className="blog-two__content-inner">
-                        <div className="blog-two__content">
-                            {/* <ul className="blog-two__meta list-unstyled">
-                            <li>
-                                <Link href="/blog-details">
-                                <span className="icon-user" />
-                                By admin
-                                </Link>
-                            </li>
-                            <li>
-                                <Link href="/blog-details">
-                                <span className="icon-comments" />
-                                Comments (05)
-                                </Link>
-                            </li>
-                            </ul> */}
-                            <h3 className="blog-two__title">
-                            <Link href="/services">
-                            Specialized In Oil & Gas, Marine, Industrial Material
-                            And Mechanical Fabrication Works
-                            </Link>
-                            </h3>
-                        </div>
-                        <div className="blog-two__btn-box">
-                            <Link href="/services" className="thm-btn blog-two__btn">
-                            Read more
-                            <span />
-                            </Link>
-                        </div>
-                        </div>
-                    </div>
-                    </div>
-                     {/* 1 */}
-
-                     {/* 2*/}
-                    <div
-                    className="col-xl-6 col-lg-4 wow fadeInLeft"
+                    className="col-xl-4 col-lg-4 wow fadeInLeft"
                     data-wow-delay="100ms"
                     >
-
-
-
                     <div className="blog-two__single">
                         <div className="blog-two__img-box">
                         <div className="blog-two__img">
                             <img src="./assets/images/allimgs/service/1.webp" alt="" />
                         </div>
-                        {/* <div className="blog-two__date">
+                        <div className="blog-two__date">
                             <p>
                             01
                             <br />
+                            {/* <span>Apr</span> */}
                             </p>
-                        </div> */}
+                        </div>
                         </div>
                         <div className="blog-two__content-inner">
                         <div className="blog-two__content">
@@ -120,24 +66,21 @@ export default function Blog() {
                         </div>
                     </div>
                     </div>
-                    {/* 2 */}
-
-
                     {/*Blog Two Single End*/}
                     {/*Blog Two Single Start*/}
-                    {/* 3 */}
-                    <div className="col-xl-6 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                    <div className="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
                     <div className="blog-two__single">
                         <div className="blog-two__img-box">
                         <div className="blog-two__img">
-                            <img src="./assets/images/allimgs/service/2.webp" alt="" />
+                            <img src="./assets/images/allimgs/service/Specializednew.webp" alt="" />
                         </div>
-                        {/* <div className="blog-two__date">
+                        <div className="blog-two__date">
                             <p>
                             02
                             <br />
+                            {/* <span>Apr</span> */}
                             </p>
-                        </div> */}
+                        </div>
                         </div>
                         <div className="blog-two__content-inner">
                         <div className="blog-two__content">
@@ -171,20 +114,24 @@ export default function Blog() {
                         </div>
                     </div>
                     </div>
-                    {/* 3 */}
                     {/*Blog Two Single End*/}
                     {/*Blog Two Single Start*/}
-                    {/* 4 */}
                     <div
-                    className="col-xl-6 col-lg-4 wow fadeInRight"
+                    className="col-xl-4 col-lg-4 wow fadeInRight"
                     data-wow-delay="300ms"
                     >
                     <div className="blog-two__single">
                         <div className="blog-two__img-box">
                         <div className="blog-two__img">
-                            <img src="./assets/images/allimgs/service/3.webp" alt="" />
+                            <img src="./assets/images/allimgs/service/Equipmentnew.webp" alt="" />
                         </div>
-                       
+                        <div className="blog-two__date">
+                            <p>
+                            03
+                            <br />
+                            {/* <span>Apr</span> */}
+                            </p>
+                        </div>
                         </div>
                         <div className="blog-two__content-inner">
                         <div className="blog-two__content">
@@ -218,19 +165,12 @@ export default function Blog() {
                         </div>
                     </div>
                     </div>
-                    {/* 4 */}
                     {/*Blog Two Single End*/}
                 </div>
-
-
-
-
-
                 <div className="row">
                     {/*Blog Two Single Start*/}
-                    {/* 5 */}
                     <div
-                    className="col-xl-6 col-lg-4 wow fadeInLeft"
+                    className="col-xl-4 col-lg-4 wow fadeInLeft"
                     data-wow-delay="100ms"
                     >
                     <div className="blog-two__single">
@@ -238,7 +178,13 @@ export default function Blog() {
                         <div className="blog-two__img">
                             <img src="./assets/images/allimgs/service/4.webp" alt="" />
                         </div>
-                       
+                        <div className="blog-two__date">
+                            <p>
+                            04
+                            <br />
+                            {/* <span>Apr</span> */}
+                            </p>
+                        </div>
                         </div>
                         <div className="blog-two__content-inner">
                         <div className="blog-two__content">
@@ -272,17 +218,21 @@ export default function Blog() {
                         </div>
                     </div>
                     </div>
-                    {/* 5 */}
                     {/*Blog Two Single End*/}
                     {/*Blog Two Single Start*/}
-                    {/* 6 */}
-                    <div className="col-xl-6 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
+                    <div className="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
                     <div className="blog-two__single">
                         <div className="blog-two__img-box">
                         <div className="blog-two__img">
                             <img src="./assets/images/allimgs/service/5.webp" alt="" />
                         </div>
-                        
+                        <div className="blog-two__date">
+                            <p>
+                            05
+                            <br />
+                            {/* <span>Apr</span> */}
+                            </p>
+                        </div>
                         </div>
                         <div className="blog-two__content-inner">
                         <div className="blog-two__content">
@@ -316,110 +266,59 @@ export default function Blog() {
                         </div>
                     </div>
                     </div>
-                     {/* 6 */}
                     {/*Blog Two Single End*/}
                     {/*Blog Two Single Start*/}
-                   
+                    <div
+                    className="col-xl-4 col-lg-4 wow fadeInRight"
+                    data-wow-delay="300ms"
+                    >
+                    <div className="blog-two__single">
+                        <div className="blog-two__img-box">
+                        <div className="blog-two__img">
+                            <img src="./assets/images/allimgs/service/6.webp" alt="" />
+                        </div>
+                        <div className="blog-two__date">
+                            <p>
+                            06
+                            <br />
+                            {/* <span>Apr</span> */}
+                            </p>
+                        </div>
+                        </div>
+                        <div className="blog-two__content-inner">
+                        <div className="blog-two__content">
+                            {/* <ul className="blog-two__meta list-unstyled">
+                            <li>
+                                <Link href="/blog-details">
+                                <span className="icon-user" />
+                                By admin
+                                </Link>
+                            </li>
+                            <li>
+                                <Link href="/blog-details">
+                                <span className="icon-comments" />
+                                Comments (05)
+                                </Link>
+                            </li>
+                            </ul> */}
+                            <h3 className="blog-two__title">
+                            <Link href="/services">
+                            Specialized In Oil & Gas, Marine, Industrial Material
+                            And Mechanical Fabrication Works
+                            </Link>
+                            </h3>
+                        </div>
+                        <div className="blog-two__btn-box">
+                            <Link href="/services" className="thm-btn blog-two__btn">
+                            Read more
+                            <span />
+                            </Link>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
                     {/*Blog Two Single End*/}
-                    <div
-                    className="col-xl-6 col-lg-4 wow fadeInRight"
-                    data-wow-delay="300ms"
-                    >
-                    <div className="blog-two__single">
-                        <div className="blog-two__img-box">
-                        <div className="blog-two__img">
-                            <img src="./assets/images/allimgs/service/HVAC.webp" alt="" />
-                        </div>
-                        {/* <div className="blog-two__date">
-                            <p>
-                            06
-                            <br />
-                            </p>
-                        </div> */}
-                        </div>
-                        <div className="blog-two__content-inner">
-                        <div className="blog-two__content">
-                            {/* <ul className="blog-two__meta list-unstyled">
-                            <li>
-                                <Link href="/blog-details">
-                                <span className="icon-user" />
-                                By admin
-                                </Link>
-                            </li>
-                            <li>
-                                <Link href="/blog-details">
-                                <span className="icon-comments" />
-                                Comments (05)
-                                </Link>
-                            </li>
-                            </ul> */}
-                            <h3 className="blog-two__title">
-                            <Link href="/services">
-                            HVAC Services
-
-                            </Link>
-                            </h3>
-                        </div>
-                        <div className="blog-two__btn-box">
-                            <Link href="/services" className="thm-btn blog-two__btn">
-                            Read more
-                            <span />
-                            </Link>
-                        </div>
-                        </div>
-                    </div>
-                    </div>
-                    <div
-                    className="col-xl-6 col-lg-4 wow fadeInRight"
-                    data-wow-delay="300ms"
-                    >
-                    <div className="blog-two__single">
-                        <div className="blog-two__img-box">
-                        <div className="blog-two__img">
-                            <img src="./assets/images/allimgs/service/Material.webp" alt="" />
-                        </div>
-                        {/* <div className="blog-two__date">
-                            <p>
-                            06
-                            <br />
-                            <span>Apr</span>
-                            </p>
-                        </div> */}
-                        </div>
-                        <div className="blog-two__content-inner">
-                        <div className="blog-two__content">
-                            {/* <ul className="blog-two__meta list-unstyled">
-                            <li>
-                                <Link href="/blog-details">
-                                <span className="icon-user" />
-                                By admin
-                                </Link>
-                            </li>
-                            <li>
-                                <Link href="/blog-details">
-                                <span className="icon-comments" />
-                                Comments (05)
-                                </Link>
-                            </li>
-                            </ul> */}
-                            <h3 className="blog-two__title">
-                            <Link href="/services">
-                            Material Supply
-                            </Link>
-                            </h3>
-                        </div>
-                        <div className="blog-two__btn-box">
-                            <Link href="/services" className="thm-btn blog-two__btn">
-                            Read more
-                            <span />
-                            </Link>
-                        </div>
-                        </div>
-                    </div>
-                    </div>
                 </div>
-
-
                 </div>
             </section>
             {/*Blog Two End*/}
