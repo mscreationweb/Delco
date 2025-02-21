@@ -13,14 +13,15 @@ export default function WhyChoose() {
                             <span className="section-title__tagline">Why Choose Us</span>
                         </div>
                         <h2 className="section-title__title">
-                            Delivering excellence every a time Express Logistics
+                        An unwavering commitment to excellence & innovation
+
                         </h2>
                         </div>
                         <p className="why-choose-one__text">
-                        Construction is an essential industry that involves building
-                        adesigning the an structures such as buildings roads, bridges
-                        Construction is an essent industry that involves building
-                        adesigning the a structures such{" "}
+                        Delco is associated with regular and new customers according to their requirement and no wonder even though if their requirement is in short notice{" "}
+                        </p>
+                        <p className="why-choose-one__text">
+                        We rise up to their expectation by providing them the required equipment in record time, no matter what type of equipment the customer requires.We have a professional Marketing Team comprising of a Marketing Manager and Business Development Executive{" "}
                         </p>
                         <div className="why-choose-one__btn-box">
                         <Link href="/about" className="thm-btn why-choose-one__btn">
@@ -38,7 +39,7 @@ export default function WhyChoose() {
                         data-wow-duration="2500ms"
                         >
                         <img
-                            src="./assets/images/allimgs/banner/Banner3.webp"
+                            src="./assets/images/allimgs/service/about.webp"
                             alt=""
                         />
                         {/* <div className="why-choose-one__delivery-box">

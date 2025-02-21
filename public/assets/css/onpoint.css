@@ -1887,7 +1887,7 @@ a.scroll-to-target.scroll-to-top {
   .main-slider__bg {
     width: 100% !important; /* Full width */
     height: 100% !important; /* Full height */
-    /* background-size: 550px !important;  */
+    background-size: 550px !important; 
     background-repeat: no-repeat;
     background-position: center center; /* Centers the image */
   }
@@ -5451,6 +5451,7 @@ select.selectmenu.wide {
   font-weight: 700;
   line-height: 34px;
   margin-top: 15px;
+  text-align: center;
 }
 
 .blog-two__title a {
